@@ -6,6 +6,7 @@ namespace HolaGalaxy
     {
         static void Main(string[] args)
         {
+            // This is the plain C# Hello World Program
             Console.WriteLine("Hola Galaxy!");
         }
     }
